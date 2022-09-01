@@ -1,0 +1,24 @@
+.job-list-item{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none !important;
+    color: black;
+    
+}
+.job-list-item-column{
+    width: 20%;
+}
+.heading{
+    font-weight: bold;
+    background-color: rgb(35, 43, 49);
+    color: white !important;
+}
+
+
+/* applicants list item  */
+.applicant-list-item{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none !important;
+    color: black;
+}
